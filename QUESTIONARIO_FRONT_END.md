@@ -1,13 +1,13 @@
 # maricato-repository
 
-1)	Se você tivesse 5 diferentes arquivos de folhas de estilo, qual seria a melhor forma de integrá-los no site? 
+1) Se você tivesse 5 diferentes arquivos de folhas de estilo, qual seria a melhor forma de integrá-los no site? 
   A melhor forma é utilizando o "IMPORT". 
   <estilo tipo="text/css"> <!-- @import url("source/page.css"); --> </style>.  
 
-2)	Fale 3 formas de diminuir o page load (tempo de carregamento real e percebido).
-  Packer,	Minify e o JSMin.
+2) Fale 3 formas de diminuir o page load (tempo de carregamento real e percebido).
+  Packer, Minify e o JSMin.
 
-3) Quais ferramentas você usa para testar a performance do seu código?
+3)Quais ferramentas você usa para testar a performance do seu código?
   Apache JMeter
   
 4) Considere o HTML5 como uma plataforma web aberta. Quais são os blocos de construção de HTML5?
